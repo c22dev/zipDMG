@@ -1,8 +1,10 @@
 # zipDMG
 ZIP your DMG if you're not able to mount it on your local machine.
 
+## Automatic build
+https://zipdmg.c22code.repl.co
 
-## How to make this work on my side?
+## How to make this work on my side? Experimental
 1. Fork this repo using your own github account (public).
 2. Go to Actions tab
 3. Create new blank action
