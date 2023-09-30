@@ -1,7 +1,7 @@
 #!/bin/bash
 
 # Set the URL of the DMG file to download. This is only sample URL
-dmg_url="https://developer.apple.com/services-account/download?path=/Applications/Apple_Configurator_For_Mac_2.17_beta_2/Apple_Configurator_for_Mac_2.17_beta_2.dmg"
+dmg_url="https://github.com/objective-see/LuLu/releases/download/v2.5.1/LuLu_2.5.1.dmg"
 
 # Set the output directory where the DMG will be mounted
 mount_dir="/Volumes/DMG_Mount"
