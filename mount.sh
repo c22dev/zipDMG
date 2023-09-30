@@ -1,7 +1,7 @@
 #!/bin/bash
 
 # Set the URL of the DMG file to download. This is only sample URL
-dmg_url="https://github.com/objective-see/KnockKnock/releases/download/v2.5.0/KnockKnock_2.5.0.zip"
+dmg_url="https://bitbucket.org/objective-see/deploy/downloads/ReiKey_1.4.2.zip"
 
 # Set the output directory where the DMG will be mounted
 mount_dir="/Volumes/DMG_Mount"
