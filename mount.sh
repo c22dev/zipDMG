@@ -1,7 +1,7 @@
 #!/bin/bash
 
 # Set the URL of the DMG file to download. This is only sample URL
-dmg_url="https://github.com/objective-see/LuLu/releases/download/v2.5.1/LuLu_2.5.1.dmg"
+dmg_url="https://github.com/objective-see/KnockKnock/releases/download/v2.5.0/KnockKnock_2.5.0.zip"
 
 # Set the output directory where the DMG will be mounted
 mount_dir="/Volumes/DMG_Mount"
