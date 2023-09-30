@@ -1,7 +1,7 @@
 #!/bin/bash
 
 # Set the URL of the DMG file to download. This is only sample URL
-dmg_url="https://redirector.gvt1.com/edgedl/android/studio/install/2022.3.1.20/android-studio-2022.3.1.20-mac_arm.dmg"
+dmg_url="https://developer.apple.com/services-account/download?path=/Applications/Apple_Configurator_For_Mac_2.17_beta_2/Apple_Configurator_for_Mac_2.17_beta_2.dmg"
 
 # Set the output directory where the DMG will be mounted
 mount_dir="/Volumes/DMG_Mount"
