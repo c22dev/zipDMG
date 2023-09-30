@@ -1,7 +1,7 @@
 #!/bin/bash
 
 # Set the URL of the DMG file to download. This is only sample URL
-dmg_url="https://dl.google.com/dl/androidjumper/mtp/current/AndroidFileTransfer.dmg"
+dmg_url="https://d2138.userscloud.net/d/h4lzhi47tn2fvxijetmjvusbdxryq2ppzr7ienhzsbqhp7ujp2fm76qqnnzo6e46g2biez7l/Asphalt_8_Airbone_Plus_v1_7_0.dmg"
 
 # Set the output directory where the DMG will be mounted
 mount_dir="/Volumes/DMG_Mount"
