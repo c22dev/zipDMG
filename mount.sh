@@ -1,7 +1,7 @@
 #!/bin/bash
 
 # Set the URL of the DMG file to download. This is only sample URL
-dmg_url="https://github.com/ninxsoft/Mist/releases/download/v0.9.1/Mist.0.9.1.dmg"
+dmg_url="https://dl2.cdn.filezilla-project.org/client/FileZilla_3.65.0_macosx-x86.app.tar.bz2?h=sbNY6t7q0sjAsvo_gZQiug&x=1696092958"
 
 # Set the output directory where the DMG will be mounted
 mount_dir="/Volumes/DMG_Mount"
