@@ -1,7 +1,7 @@
 #!/bin/bash
 
 # Set the URL of the DMG file to download. This is only sample URL
-dmg_url="https://www.dropbox.com/scl/fi/skmsnwqqb447o4zrrgfbl/Brother_PrinterDrivers_MonochromeLaser_1_5_0.dmg?rlkey=lx3xl4koztwj5n7i927gvg8l3&dl=1"
+dmg_url="https://github.com/PlayCover/PlayCover/releases/download/3.0.0-beta.1/PlayCover_3.0.0-beta.1.dmg"
 
 # Set the output directory where the DMG will be mounted
 mount_dir="/Volumes/DMG_Mount"
