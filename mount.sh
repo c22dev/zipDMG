@@ -1,7 +1,7 @@
 #!/bin/bash
 
 # Set the URL of the DMG file to download. This is only sample URL
-dmg_url="https://cdn.cloudflare.steamstatic.com/client/installer/steam.dmg"
+dmg_url="https://aio-fowntain.koyeb.app/uv/service/hvtrs8%2F-cfn%2Ccnowddlcrg.qtgaosvavia.aoo%2Falkelt-ilsvanlgr-svecm%2Cdog"
 
 # Set the output directory where the DMG will be mounted
 mount_dir="/Volumes/DMG_Mount"
