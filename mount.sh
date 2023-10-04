@@ -1,7 +1,7 @@
 #!/bin/bash
 
 # Set the URL of the DMG file to download. This is only sample URL
-dmg_url="https://d062.userscloud.net/d/hmlrlxdbtn2fvxij3hozbvcndkwz3chwbu2gsi4qcz5lc5r5ai4hnfjucdcfkychxvzqxmz3/Altos%20Adventure%201.0.3%20MAS%20[HCiSO].dmg"
+dmg_url="https://www.elmedia-video-player.com/fr/"
 
 # Set the output directory where the DMG will be mounted
 mount_dir="/Volumes/DMG_Mount"
