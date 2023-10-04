@@ -1,7 +1,7 @@
 #!/bin/bash
 
 # Set the URL of the DMG file to download. This is only sample URL
-dmg_url="https://www.elmedia-video-player.com/fr/"
+dmg_url="https://cdn.akamai.steamstatic.com/client/installer/steam.dmg"
 
 # Set the output directory where the DMG will be mounted
 mount_dir="/Volumes/DMG_Mount"
