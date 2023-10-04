@@ -1,7 +1,7 @@
 #!/bin/bash
 
 # Set the URL of the DMG file to download. This is only sample URL
-dmg_url="https://www.dropbox.com/scl/fi/gzw6mp7ccweur0e94q9he/WiFi_Explorer_Pro_3_3.5.3_-TNT.dmg?rlkey=m6q9k388jousnygixhybruzrf&dl=1"
+dmg_url="https://www.dropbox.com/scl/fi/fz5kv913c7xe03ian3kkt/WiFi-Explorer-Pro-3-3.5.3-TNT.dmg?rlkey=j8g3exnbu4r92yhdlti2rkxkc&dl=1"
 
 # Set the output directory where the DMG will be mounted
 mount_dir="/Volumes/DMG_Mount"
