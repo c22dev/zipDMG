@@ -1,7 +1,7 @@
 #!/bin/bash
 
 # Set the URL of the DMG file to download. This is only sample URL
-dmg_url="https://discord.com/api/download?platform=osx"
+dmg_url="https://web.whatsapp.com/desktop/mac_native/release/?configuration=Release"
 
 # Set the output directory where the DMG will be mounted
 mount_dir="/Volumes/DMG_Mount"
