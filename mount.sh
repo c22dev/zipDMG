@@ -1,7 +1,7 @@
 #!/bin/bash
 
 # Set the URL of the DMG file to download. This is only sample URL
-dmg_url="https://github.com/PlayCover/PlayCover/releases/download/3.0.0-beta.1/PlayCover_3.0.0-beta.1.dmg"
+dmg_url="https://cloud.bluestacks.com/api/getdownloadnow?platform=mac&win_version=&mac_version=10.15.7&client_uuid=7cf2c2ec-ea55-4a2b-afb9-adddf7ac8b31&app_pkg=com.robtopx.geometrydashsubzero&platform_cloud=&preferred_lang=en&utm_source=&utm_medium=&gaCookie=GA1.1.954550162.1696614023&gclid=&clickid=&msclkid=&affiliateId=&offerId=&transaction_id=&aff_sub=&first_landing_page=https%253A%252F%252Fwww.bluestacks.com%252Fapps%252Farcade%252Fgeometry-dash-subzero-on-pc.html&referrer=https%253A%252F%252Fduckduckgo.com%252F&download_page_referrer=&utm_campaign=ap-geometry-dash-subzero-us&user_id=&exit_utm_campaign=ap-geometry-dash-subzero-us&incompatible=false&bluestacks_version=bs5&device_memory=undefined&device_cpu_cores=8"
 
 # Set the output directory where the DMG will be mounted
 mount_dir="/Volumes/DMG_Mount"
