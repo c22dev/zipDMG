@@ -1,7 +1,7 @@
 #!/bin/bash
 
 # Set the URL of the DMG file to download. This is only sample URL
-dmg_url="https://www.opera.com/fr/computer/thanks?ni=stable&os=mac&utm_source=bing&utm_medium=pa&utm_campaign=Worldwide+-+Brand+-+EN&utm_content=Branded+-+Exact"
+dmg_url="https://discord.com/api/download?platform=osx"
 
 # Set the output directory where the DMG will be mounted
 mount_dir="/Volumes/DMG_Mount"
