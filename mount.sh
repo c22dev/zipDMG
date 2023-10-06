@@ -1,7 +1,7 @@
 #!/bin/bash
 
 # Set the URL of the DMG file to download. This is only sample URL
-dmg_url="https://releases.arc.net/release/Arc-latest.dmg"
+dmg_url="https://download.sqlitebrowser.org/DB.Browser.for.SQLite-arm64-3.12.2.dmg"
 
 # Set the output directory where the DMG will be mounted
 mount_dir="/Volumes/DMG_Mount"
