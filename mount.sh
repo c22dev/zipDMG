@@ -1,7 +1,7 @@
 #!/bin/bash
 
 # Set the URL of the DMG file to download. This is only sample URL
-dmg_url="https://github.com/cemu-project/Cemu/releases/download/v2.0-55/cemu-2.0-55-macos-12-x64.dmg"
+dmg_url="https://www.torproject.org/dist/torbrowser/12.5.6/TorBrowser-12.5.6-macos_ALL.dmg"
 
 # Set the output directory where the DMG will be mounted
 mount_dir="/Volumes/DMG_Mount"
