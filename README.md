@@ -11,7 +11,7 @@ https://zipdmg.c22code.repl.co
 4. Copy the content from [this page](https://raw.githubusercontent.com/c22dev/zipDMG/main/.github/workflows/blank.yml) and paste it in your blank file
 5. Save (commit)
 6. Go into mount.sh file and edit it
-7. Replace the template URL with your dmg link (you can self host it on replit).
+7. Replace the template URL with your dmg link (you can self host it on DropBox and replace the 0 by a 1 at the end of the share link).
 8. Commit with the name of your choice (keep it in mind)
 9. Go in actions tab
 10. Click on the section contanining the name of your choice
