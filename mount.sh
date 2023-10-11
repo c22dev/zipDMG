@@ -1,7 +1,7 @@
 #!/bin/bash
 
 # Set the URL of the DMG file to download. This is only sample URL
-dmg_url="https://dl.google.com/chrome/mac/universal/stable/GGRO/googlechrome.dmg"
+dmg_url="https://d241.userscloud.net/d/hulzxi5itn2fvxijwtmmvvcwlr4pilx44r6z6bmlgxxw5ju4kog52txdljtywrisavbqaqwh/Coherence_X_4.4_[TNT].dmg"
 
 # Set the output directory where the DMG will be mounted
 mount_dir="/Volumes/DMG_Mount"
