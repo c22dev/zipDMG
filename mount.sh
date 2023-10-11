@@ -1,7 +1,7 @@
 #!/bin/bash
 
 # Set the URL of the DMG file to download. This is only sample URL
-dmg_url="https://www.google.com/chrome/next-steps.html?statcb=0&installdataindex=empty&defaultbrowser=0"
+dmg_url="https://dl.google.com/chrome/mac/universal/stable/GGRO/googlechrome.dmg"
 
 # Set the output directory where the DMG will be mounted
 mount_dir="/Volumes/DMG_Mount"
