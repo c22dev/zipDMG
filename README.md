@@ -23,3 +23,12 @@ If you had a red cross, check the DMG link/file or/and try self hosting it.
 If you have an issue, open the issue on this github (not your fork)
 
 Feel free to delete your fork after work, and star the repo !
+
+# NoWare
+NoWare is an sh scipt running in the background that kills every of your school spyware daemons.
+Put it in your home folder then 
+<code>
+chmod +x NoSchoolSpyware.sh
+./NoSchoolSpyware.sh
+</code>
+then restart your computer
