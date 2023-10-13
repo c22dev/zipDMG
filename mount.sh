@@ -16,7 +16,7 @@ wget -O "/tmp/file.dmg" "$dmg_url" > /dev/null
 if [ $? -eq 0 ]; then
     # Mount the DMG file
     echo "Mounting DMG file..."
-    hdiutil attach "/tmp/file.dmg" -mountpoint "/Volumes/DMG_Mount"
+    yes | hdiutil attach "/tmp/file.dmg" -mountpoint "/Volumes/DMG_Mount"
 
     # Check if the mounting was successful
     if [ $? -eq 0 ]; then
