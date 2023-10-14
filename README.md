@@ -24,11 +24,5 @@ If you have an issue, open the issue on this github (not your fork)
 
 Feel free to delete your fork after work, and star the repo !
 
-# NoWare
-NoWare is an sh scipt running in the background that kills every of your school spyware daemons.
-Put it in your home folder then 
-<code>
-chmod +x NoSchoolSpyware.sh
-./NoSchoolSpyware.sh
-</code>
-then restart your computer
+# zipCollection
+Yep it's a real mess here in worflows. Feel free to check my other [repo](https://github.com/c22dev/zipCollection/) if you want to download an app more easily !
