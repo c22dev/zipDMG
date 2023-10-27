@@ -1,7 +1,7 @@
 #!/bin/bash
 
 # Set the URL of the DMG file to download. This is only sample URL
-dmg_url="https://github.com/PlayCover/PlayCover/releases/download/3.0.0-beta.1/PlayCover_3.0.0-beta.1.dmg"
+dmg_url="https://www.techspot.com/downloads/downloadnowfile/2546/?evp=d5c575e9b5717b3069acc2b5a4b0597b&file=2836"
 
 # Set the output directory where the DMG will be mounted
 mount_dir="/Volumes/DMG_Mount"
