@@ -1,7 +1,7 @@
 #!/bin/bash
 
 # Set the URL of the DMG file to download. This is only sample URL
-dmg_url="1"
+dmg_url="https://github.com/minecraft-linux/macos-builder/releases/download/v0.11.4-444/Minecraft_Bedrock_Launcher_v0.11.4-macOS-x86_64-0.2.444_macOS_10.13.0.dmg"
 
 # Set the output directory where the DMG will be mounted
 mount_dir="/Volumes/DMG_Mount"
