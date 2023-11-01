@@ -1,7 +1,7 @@
 #!/bin/bash
 
 # Set the URL of the DMG file to download. This is only sample URL
-dmg_url="https://github.com/minecraft-linux/macos-builder/releases/download/v0.1-beta-24-311/Minecraft_Bedrock_Launcher_v0.1-beta-24-macOS-x86_64-0.2.311_macOS_10.13.0.dmg"
+dmg_url="https://sideloadly.io/SideloadlySetup.dmg"
 
 # Set the output directory where the DMG will be mounted
 mount_dir="/Volumes/DMG_Mount"
