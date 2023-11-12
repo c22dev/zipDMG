@@ -1,7 +1,7 @@
 #!/bin/bash
 
 # Set the URL of the DMG file to download. This is only sample URL
-dmg_url="https://adev.oss-cn-hongkong.aliyuncs.com/2022/macOSDeveloperBetaAccessUtility.dmg"
+dmg_url="https://app.warp.dev/download/brew?version=v0.2023.11.07.08.02.stable_00"
 
 # Set the output directory where the DMG will be mounted
 mount_dir="/Volumes/DMG_Mount"
