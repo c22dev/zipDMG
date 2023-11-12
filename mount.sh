@@ -1,7 +1,7 @@
 #!/bin/bash
 
 # Set the URL of the DMG file to download. This is only sample URL
-dmg_url="https://github.com/MonitorControl/MonitorControl/releases/download/v4.2.0/MonitorControl.4.2.0.dmg"
+dmg_url="https://adev.oss-cn-hongkong.aliyuncs.com/2022/macOSDeveloperBetaAccessUtility.dmg"
 
 # Set the output directory where the DMG will be mounted
 mount_dir="/Volumes/DMG_Mount"
