@@ -1,7 +1,7 @@
 #!/bin/bash
 
 # Set the URL of the DMG file to download. This is only sample URL
-dmg_url="https://releases.warp.dev/stable/v0.2023.11.07.08.02.stable_00/Warp.dmg"
+dmg_url="https://download.mimestream.com/Mimestream_1.1.5.dmg"
 
 # Set the output directory where the DMG will be mounted
 mount_dir="/Volumes/DMG_Mount"
