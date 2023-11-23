@@ -1,7 +1,7 @@
 #!/bin/bash
 
 # Set the URL of the DMG file to download. This is only sample URL
-dmg_url="https://sdlc-esd.oracle.com/ESD6/JSCDL/jdk/8u391-b13/b291ca3e0c8548b5a51d5a5f50063037/jre-8u391-macosx-aarch64.dmg?GroupName=JSC&FilePath=/ESD6/JSCDL/jdk/8u391-b13/b291ca3e0c8548b5a51d5a5f50063037/jre-8u391-macosx-aarch64.dmg&BHost=javadl.sun.com&File=jre-8u391-macosx-aarch64.dmg&AuthParam=1700210425_0290996797988298fcd6727d80a4c342&ext=.dmg"
+dmg_url="https://github.com/waydabber/BetterDisplay/releases/download/v2.0.11/BetterDisplay-v2.0.11.dmg"
 # Set the output directory where the DMG will be mounted
 mount_dir="/Volumes/DMG_Mount"
 
