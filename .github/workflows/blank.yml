@@ -20,5 +20,4 @@ jobs:
         uses: actions/upload-artifact@v3
         with:
           name: zipDMG Output
-          path: |
-              /tmp/output.aar
+          path: /tmp/output.aar
