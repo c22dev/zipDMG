@@ -1,7 +1,7 @@
 #!/bin/bash
 
 # Set the URL of the DMG file to download. This is only sample URL
-dmg_url="https://d3jdrrl94b667u.cloudfront.net/Raycast_v1.62.2_130f04282e8fd59a05082658c1c483b1af1da006_universal.dmg?response-content-disposition=attachment%3B%20filename%3DRaycast.dmg&Expires=1701096248&Signature=FZ5UQCqc5v~7gaHmEWK2mzdm8n9ii8iH4dWon73f2JlhpDPJF-jqC-jJy7hQRgzbx2KGc5xjOGcY1RQ-w5Gpf7dK-PXAysVv-oc4sxeEG85Ae7759iOwQ3gRYGksu-5i~36NBJ1Se8ErIVvs5WWWU1FcrbuEqD-rlaIITRyH6tTEuiCiyf0Ko5pBG-HDaRp~y9PZRuEXhjOyptCfTyfKbdv1qbSgY6tSZdDDEZENFA3l5VLe8ddINZQY5CrQQG~R002vYGUD1lWHNKvR4Wo2mDm0qAPm9i1c6djdHDGCFHY-Z85Fhimzd4g7uOgXfVKsT412lwx8osArHni4DSWIbg__&Key-Pair-Id=K69CUC23G592W"
+dmg_url="https://github.com/cemu-project/Cemu/releases"
 # Set the output directory where the DMG will be mounted
 mount_dir="/Volumes/DMG_Mount"
 
