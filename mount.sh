@@ -1,7 +1,7 @@
 #!/bin/bash
 
 # Set the URL of the DMG file to download. This is only sample URL
-dmg_url="https://github.com/Wouter01/MediaMate-Releases/releases/download/v2.5.0_209/MediaMate.dmg"
+dmg_url="https://github.com/Wouter01/MediaMate-Releases/releases/download/v2.5.1_210/MediaMate.dmg"
 # Set the output directory where the DMG will be mounted
 mount_dir="/Volumes/DMG_Mount"
 
