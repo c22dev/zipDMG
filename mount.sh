@@ -1,7 +1,7 @@
 #!/bin/bash
 
 # Set the URL of the DMG file to download. This is only sample URL
-dmg_url="https://download.developer.apple.com/Developer_Tools/iOS_17.0.1_Simulator_Runtime/iOS_17.0.1_Simulator_Runtime.dmg"
+dmg_url="https://devimages-cdn.apple.com/downloads/xcode/simulators/com.apple.pkg.iPhoneSimulatorSDK15_5-15.5.1.1653527639.dmg"
 # Set the output directory where the DMG will be mounted
 mount_dir="/Volumes/DMG_Mount"
 
