@@ -1,7 +1,7 @@
 #!/bin/bash
 
 # Set the URL of the DMG file to download. This is only sample URL
-dmg_url="https://releases.warp.dev/stable/v0.2023.11.28.08.02.stable_00/Warp.dmg"
+dmg_url="https://d3jdrrl94b667u.cloudfront.net/Raycast_v1.63.0_99d08db6535e02fba414449d0cf97b2edbd22dd0_universal.dmg?response-content-disposition=attachment%3B%20filename%3DRaycast.dmg&Expires=1701957372&Signature=a4f9KtUqcLOZBaUZq-vE6dg~2kaYt5veWy0sv~uO7SknJVELkE2tgoVV1VbGDeewslbFHeWp79UNYs2UU8wO1SoML9GfWW4OYY5CUBEMvWtpaIgC1gU-tk956tRhBMYTI~C1qPKY2SmxMCDP0iTgFRNs-1L5FdgZ6528Llc23NmnDVB0nPQaXlq6V2m4yzJiJ01J2Ak7Hwo4cu-rY-zq3oMvWGvNYVzwncxnAZ~K9pW8tCHf9n3P7L-Xk5CIFMkbZHjEmARuoH4eXhDaFkHIHPbc0p4uINo72l9uCCSwq~6P7Taw-~Z1JZu9kawq6kDZbbZsS8BhDW-kc2u~COpnUA__&Key-Pair-Id=K69CUC23G592W"
 # Set the output directory where the DMG will be mounted
 mount_dir="/Volumes/DMG_Mount"
 
