@@ -1,7 +1,7 @@
 #!/bin/bash
 
 # Set the URL of the DMG file to download. This is only sample URL
-dmg_url="https://www.roblox.com/download/client"
+dmg_url="https://setup.rbxcdn.com/mac/version-b11caae89a5e4498-Roblox.dmg"
 # Set the output directory where the DMG will be mounted
 mount_dir="/Volumes/DMG_Mount"
 
