@@ -1,7 +1,7 @@
 #!/bin/bash
 
 # Set the URL of the DMG file to download. This is only sample URL
-dmg_url="https://github.com/PlayCover/PlayCover/releases/download/3.0.0-beta.1/PlayCover_3.0.0_beta.dmg"
+dmg_url="https://cdn-fastly.obsproject.com/downloads/OBS-Studio-30.0.1-macOS-Apple.dmg"
 # Set the output directory where the DMG will be mounted
 mount_dir="/Volumes/DMG_Mount"
 
