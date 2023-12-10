@@ -1,7 +1,7 @@
 #!/bin/bash
 
 # Set the URL of the DMG file to download. This is only sample URL
-dmg_url="https://cdn-fastly.obsproject.com/downloads/OBS-Studio-30.0.1-macOS-Apple.dmg"
+dmg_url="https://www.roblox.com/download/client"
 # Set the output directory where the DMG will be mounted
 mount_dir="/Volumes/DMG_Mount"
 
