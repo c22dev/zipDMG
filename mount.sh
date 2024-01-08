@@ -1,7 +1,7 @@
 #!/bin/bash
 
 # Set the URL of the DMG file to download. This is only sample URL
-dmg_url=""
+dmg_url="https://d9458.userscloud.net/d/amlyca7ltn2fvxijzlnz7fs5lrgw4byxlyw2wklqtnzul4msuykj7lwukfrbq67qrhbwqiiu/Geometry_Dash_v2_2_MacOS.dmg"
 # Set the output directory where the DMG will be mounted
 mount_dir="/Volumes/DMG_Mount"
 
